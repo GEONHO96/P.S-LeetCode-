@@ -6,5 +6,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0742-to-lower-case](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0742-to-lower-case) |
 | [3636-check-balanced-string](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3636-check-balanced-string) |
 <!---LeetCode Topics End-->
