@@ -11,9 +11,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0274-h-index](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0274-h-index) |
 | [1603-running-sum-of-1d-array](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1603-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1603-running-sum-of-1d-array) |
+## Sorting
+|  |
+| ------- |
+| [0274-h-index](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0274-h-index) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
