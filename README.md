@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0274-h-index) |
 | [1603-running-sum-of-1d-array](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1603-running-sum-of-1d-array) |
+| [1791-richest-customer-wealth](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1791-richest-customer-wealth) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0274-h-index) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
