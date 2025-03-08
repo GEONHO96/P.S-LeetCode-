@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0742-to-lower-case) |
 | [3636-check-balanced-string](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3636-check-balanced-string) |
 ## Array
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1791-richest-customer-wealth) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
