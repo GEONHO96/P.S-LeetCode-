@@ -1,20 +1,15 @@
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
-        for (int i = 0; i < ransomNote.length(); i++) {
-            char r = ransomNote.charAt(i);
-
-            int matchingIndex = magazine.indexOf(r);
-
-            if (matchingIndex == -1) {
+        int[] charCount = new int[26];
+        for (char c : magazine.toCharArray()) {
+            charCount[c - 'a']++;
+        }
+        for (char c : ransomNote.toCharArray()) {
+            if (charCount[c - 'a'] == 0) {
                 return false;
             }
-
-            magazine = magazine.substring(0, matchingIndex) + magazine.substring(matchingIndex + 1);
+            charCount[c - 'a']--;
         }
-
         return true;
     }
-
-    // time complexity O(nm)
-    // space complexity O(n)
 }
