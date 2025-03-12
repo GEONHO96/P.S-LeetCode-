@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0274-h-index) |
 | [1603-running-sum-of-1d-array](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1791-richest-customer-wealth) |
+| [2048-build-array-from-permutation](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2058-concatenation-of-array) |
 ## Prefix Sum
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0412-fizz-buzz) |
+| [2048-build-array-from-permutation](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2058-concatenation-of-array) |
 ## Bit Manipulation
 |  |
