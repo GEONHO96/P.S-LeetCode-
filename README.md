@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0742-to-lower-case) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3379-score-of-a-string) |
 | [3636-check-balanced-string](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3636-check-balanced-string) |
 ## Array
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0412-fizz-buzz) |
 | [2048-build-array-from-permutation](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
