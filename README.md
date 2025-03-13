@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2556-convert-the-temperature](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2556-convert-the-temperature) |
 ## Simulation
 |  |
 | ------- |
