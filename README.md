@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1837-daily-leads-and-partners](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1837-daily-leads-and-partners) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
