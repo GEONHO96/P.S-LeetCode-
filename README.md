@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0412-fizz-buzz) |
+| [1013-fibonacci-number](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2383-add-two-integers) |
@@ -90,4 +91,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1948-rearrange-products-table](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1948-rearrange-products-table) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3803-find-products-with-valid-serial-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
