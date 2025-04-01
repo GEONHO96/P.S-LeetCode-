@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0275-h-index-ii) |
 | [1603-running-sum-of-1d-array](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1013-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0275-h-index-ii](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0275-h-index-ii) |
 <!---LeetCode Topics End-->
