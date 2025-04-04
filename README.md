@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2383-add-two-integers](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2752-sum-multiples) |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0275-h-index-ii](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0275-h-index-ii) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
