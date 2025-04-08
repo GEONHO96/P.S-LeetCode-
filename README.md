@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2714-left-and-right-sum-differences](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2714-left-and-right-sum-differences) |
 | [3194-find-words-containing-character](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3194-find-words-containing-character) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0274-h-index) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3778-transform-array-by-parity](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3778-transform-array-by-parity) |
 ## Counting Sort
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0383-ransom-note) |
 | [1635-number-of-good-pairs](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1635-number-of-good-pairs) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3778-transform-array-by-parity](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3778-transform-array-by-parity) |
 ## Matrix
 |  |
@@ -136,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2491-smallest-even-multiple) |
+## Greedy
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
