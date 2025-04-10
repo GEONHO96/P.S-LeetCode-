@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0001-two-sum) |
 | [0274-h-index](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0275-h-index-ii) |
+| [1580-shuffle-the-array](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1693-sum-of-all-odd-length-subarrays) |
