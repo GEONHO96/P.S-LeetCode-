@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0742-to-lower-case) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1205-defanging-an-ip-address) |
+| [1894-merge-strings-alternately](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3194-find-words-containing-character) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0908-middle-of-the-linked-list) |
+| [1894-merge-strings-alternately](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
