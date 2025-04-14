@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2502-sort-the-people](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3379-score-of-a-string) |
 | [3567-convert-date-to-binary](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3567-convert-date-to-binary) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2502-sort-the-people](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2502-sort-the-people) |
 | [2714-left-and-right-sum-differences](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2714-left-and-right-sum-differences) |
 | [3194-find-words-containing-character](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3194-find-words-containing-character) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0274-h-index) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2502-sort-the-people](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2502-sort-the-people) |
 | [3778-transform-array-by-parity](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3778-transform-array-by-parity) |
 ## Counting Sort
 |  |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0001-two-sum) |
 | [0383-ransom-note](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0383-ransom-note) |
 | [1635-number-of-good-pairs](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1635-number-of-good-pairs) |
+| [2502-sort-the-people](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2502-sort-the-people) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Database
 |  |
