@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0096-unique-binary-search-trees) |
 | [0412-fizz-buzz](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0096-unique-binary-search-trees) |
 | [1013-fibonacci-number](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -164,4 +166,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
