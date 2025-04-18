@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2502-sort-the-people) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2714-left-and-right-sum-differences](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2714-left-and-right-sum-differences) |
 | [3194-find-words-containing-character](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3194-find-words-containing-character) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Linked List
 |  |
 | ------- |
