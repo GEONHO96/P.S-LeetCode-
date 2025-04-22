@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0014-longest-common-prefix) |
 | [0383-ransom-note](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0742-to-lower-case) |
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0096-unique-binary-search-trees) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
