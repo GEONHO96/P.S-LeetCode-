@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0013-roman-to-integer) |
 | [0096-unique-binary-search-trees](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0096-unique-binary-search-trees) |
 | [0412-fizz-buzz](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0412-fizz-buzz) |
