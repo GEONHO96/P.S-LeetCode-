@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0742-to-lower-case) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0096-unique-binary-search-trees) |
 | [0412-fizz-buzz](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1013-fibonacci-number) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0412-fizz-buzz) |
 | [2048-build-array-from-permutation](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2058-concatenation-of-array) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0067-add-binary) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Linked List
