@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2502-sort-the-people) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2714-left-and-right-sum-differences) |
 | [3194-find-words-containing-character](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3194-find-words-containing-character) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
