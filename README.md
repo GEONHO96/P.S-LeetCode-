@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1205-defanging-an-ip-address) |
 | [1894-merge-strings-alternately](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1894-merge-strings-alternately) |
@@ -203,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
