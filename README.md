@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0198-house-robber) |
 | [0274-h-index](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0300-longest-increasing-subsequence) |
 | [1580-shuffle-the-array](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1635-number-of-good-pairs) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0300-longest-increasing-subsequence) |
 | [1013-fibonacci-number](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0275-h-index-ii](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0300-longest-increasing-subsequence) |
 ## Number Theory
 |  |
 | ------- |
