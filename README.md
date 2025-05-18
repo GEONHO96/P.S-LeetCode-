@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1205-defanging-an-ip-address) |
 | [1894-merge-strings-alternately](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1944-truncate-sentence) |
+| [2128-reverse-prefix-of-word](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3194-find-words-containing-character) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1894-merge-strings-alternately) |
+| [2128-reverse-prefix-of-word](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2128-reverse-prefix-of-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2128-reverse-prefix-of-word](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2128-reverse-prefix-of-word) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
