@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0013-roman-to-integer](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0058-length-of-last-word) |
@@ -27,13 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3636-check-balanced-string](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3636-check-balanced-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3811-reverse-degree-of-a-string) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0001-two-sum) |
 | [0198-house-robber](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0198-house-robber) |
 | [0274-h-index](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0300-longest-increasing-subsequence) |
+| [0977-squares-of-a-sorted-array](https://github.com/GEONHO96/P.S-LeetCode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1580-shuffle-the-array](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1635-number-of-good-pairs) |
@@ -55,35 +56,36 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3778-transform-array-by-parity](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3778-transform-array-by-parity) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1833-find-the-highest-altitude) |
 | [2714-left-and-right-sum-differences](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2714-left-and-right-sum-differences) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0274-h-index](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0274-h-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/GEONHO96/P.S-LeetCode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2502-sort-the-people) |
 | [3778-transform-array-by-parity](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3778-transform-array-by-parity) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0274-h-index](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0383-ransom-note) |
 | [1635-number-of-good-pairs](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1635-number-of-good-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3778-transform-array-by-parity](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3778-transform-array-by-parity) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1791-richest-customer-wealth) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0009-palindrome-number](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0067-add-binary) |
@@ -106,8 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3567-convert-date-to-binary) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0067-add-binary](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0412-fizz-buzz) |
 | [1642-water-bottles](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1642-water-bottles) |
@@ -117,24 +119,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3811-reverse-degree-of-a-string) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0067-add-binary](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0067-add-binary) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0908-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/GEONHO96/P.S-LeetCode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1894-merge-strings-alternately](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2128-reverse-prefix-of-word) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0013-roman-to-integer) |
 | [0383-ransom-note](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0383-ransom-note) |
@@ -142,8 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2502-sort-the-people) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0175-combine-two-tables](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0175-combine-two-tables) |
 | [0627-swap-salary](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0627-swap-salary) |
 | [1153-product-sales-analysis-i](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1153-product-sales-analysis-i) |
@@ -156,62 +159,62 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3803-find-products-with-valid-serial-numbers) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0300-longest-increasing-subsequence) |
 | [1013-fibonacci-number](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1013-fibonacci-number](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1013-fibonacci-number) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1013-fibonacci-number](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1236-n-th-tribonacci-number) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0275-h-index-ii](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0300-longest-increasing-subsequence) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2491-smallest-even-multiple](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2491-smallest-even-multiple) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/2128-reverse-prefix-of-word) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0096-unique-binary-search-trees) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0096-unique-binary-search-trees) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0096-unique-binary-search-trees) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0014-longest-common-prefix) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0812-rotate-string](https://github.com/GEONHO96/P.S-LeetCode-/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
